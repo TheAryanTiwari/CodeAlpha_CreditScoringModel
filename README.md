@@ -19,11 +19,11 @@ This project predicts whether a loan will be **approved or rejected** using mach
 - Python
 - pandas, scikit-learn, seaborn, matplotlib
 
-## 📈 Result
+##  Result
 
 - Best Accuracy: `98.0%` 
 
-## 📂 Dataset
+##  Dataset
 
 Dataset used: `loan_approval_dataset.csv`  
 
